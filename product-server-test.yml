@@ -9,5 +9,5 @@ spring:
     name: product-service
 
 
-#env: "product-server"
-#branch: "test"
+env: "product-server"
+branch: "test"
