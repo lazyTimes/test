@@ -11,4 +11,4 @@ spring:
 
 env: "product-server"
 branch: "test"
-color: "99999"
+color: "11111"
