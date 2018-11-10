@@ -1,0 +1,14 @@
+server:
+  port: 9000
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+spring:
+  application:
+    name: api-gateway
+
+
+env: "api-gateway"
+branch: "test"
+color: "33333"
