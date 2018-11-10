@@ -9,6 +9,6 @@ spring:
     name: order-service
 
 
-env: "product-server"
+env: "order-server"
 branch: "test"
 color: "22222"
